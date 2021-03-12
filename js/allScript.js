@@ -3,12 +3,12 @@ jQuery(window).load(function(){
 	//jQuery(".site-header").sticky({ topSpacing: 0, zIndex:99999 });
 
 	$('.search_bbtn').click( function(){
-		$('.header_search').addClass('open');
+		$('.search_box').addClass('open');
 		$('.overlay').addClass('open');
 		$('body').addClass('fixed');
 	})
 	$('.h_search_close').click( function(){
-		$('.header_search').removeClass('open');
+		$('.search_box').removeClass('open');
 		$('.overlay').removeClass('open');
 		$('body').removeClass('fixed');
 	})
@@ -46,7 +46,7 @@ jQuery(window).load(function(){
 	});
 
 	$('.store-holder .owl-carousel').owlCarousel({
-	    loop:false,
+	    loop:true,
 	    margin:0,
 	    dots:false,
 	    nav:true,

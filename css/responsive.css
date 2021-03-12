@@ -19,11 +19,14 @@
 
 }
 @media screen and (max-width:1600px){
-	
+    
+.search_box .container form {width: 95%;margin: 0 auto;}
+
+
 }
 @media screen and (max-width:1540px){
 	
-.header-bottom h1 {font-size: 4rem;}
+.header-bottom h4, .gv_banner h4 {font-size: 4rem;}
 .fa-play {width: 150px;}	
 	
 	
@@ -53,26 +56,26 @@ nav.mainmenu ul li a {padding: 20px 36px;font-size: 0.8rem;}
 .challange_survay a {font-size: 0.85rem;}
 .header_right_account li { padding: 15px 0;}
 .logo, .challange_survay {height: 95px;}
-.top-right ul li a { font-size: 0.85rem;}	
+header .top-right ul li a { font-size: 0.85rem;}	
 	
 .select_newtork { margin-top: 8px;}
 .select_newtork a {font-size: 0.75rem;	}
 .select_newtork span {font-size: 0.8rem;}	
 .select_newtork dl { font-size: 1.1rem;}
 
-.header-bottom .container { top: 70px;}
+.gv_banner .gv_banner_text, .header-bottom .banner-text { top: 70px;}
 .header-bottom p {font-size: 1.2rem;}
-.header-bottom h6 {font-size: 1.8rem;margin-top: 20px;}
+.header-bottom h6, .gv_banner h6 {font-size: 1.8rem;margin-top: 20px;}
 
-.blue-box-header-bottom h2, .text-heading { font-size: 3rem;}
+.blue-box-header-bottom h3, .text-heading,  .what-text .text-heading, .form-holder .text-heading { font-size: 3rem;}
 .text-heading {padding-bottom: 23px;margin: 0 0 30px 0;}
 .blue-box-header-bottom p { font-size: 1.2rem;margin: 0 0 20px 0;}
-.how-text {padding: 35px 19px 72px 19px;}
+.how-text.text-center {padding: 35px 19px 72px 19px !important;}
 .how-text h4 br{ display:none;}
 .how-holder {padding: 65px 0 100px 0;}
 
 
-.straOwn_project ul li, body p, .what-text p {font-size: 1rem;line-height: 1.5;}
+.how-text p, .straOwn_project ul li, body p, .what-text p {font-size: 1rem;line-height: 1.5;}
 .how-text h4 {font-size: 1.3rem;}
 
 .testimonials-holder {padding: 66px 0 50px 0;}
@@ -90,7 +93,7 @@ nav.mainmenu ul li a {padding: 20px 36px;font-size: 0.8rem;}
 
 footer .foot-text ul li a {font-size: 13px;}
 footer .foot-text ul li {margin-bottom: 6px;}
-.footer-bottom p {font-size: 0.8rem;}
+footer .footer-bottom p {font-size: 0.8rem;}
 .footer-top {padding: 50px 0 35px 0;}
 
 
@@ -108,10 +111,10 @@ footer .foot-text ul li {margin-bottom: 6px;}
 @media screen and (max-width:1280px){
 .store-holder .owl-prev {left: -4%;}
 .store-holder .owl-next {right: -4%;}
-.header_search input { width: 60%;}	
+.search_box input { width: 60%;}	
 .join {bottom: 115px;}
 .img-building {width: 820px;}
-.top-right ul li { padding: 0 15px;}
+header .top-right ul li { padding: 0 15px;}
 .what-text { width: 95%;}
 
 
@@ -123,10 +126,10 @@ footer .foot-text ul li {margin-bottom: 6px;}
 @media screen and (max-width:1170px){
 nav.mainmenu ul li a { padding: 20px 24px;}
 .challange_survay a {font-size: 0.75rem;}
-.blue-box-header-bottom h2, .text-heading {font-size: 2.8rem;}
+.blue-box-header-bottom h3, .text-heading, .what-text .text-heading, .form-holder .text-heading {font-size: 2.8rem;}
 select.city_list { width: 100%; height: 60px;;font-size: 1.1rem;}
 .city_list_area .common_btn {width: 100%;height: 60px;}
-.how-text { min-height: 370px; padding: 35px 19px 52px 19px;}
+.how-text.text-center { min-height: 370px; padding: 35px 19px 52px 19px !important;}
 .what-holder img {  height: 550px;}
 .how-text a { font-size: 1rem; bottom: 20px;}
 .testimonials-holder .owl-carousel { width: 100%;}
@@ -149,13 +152,13 @@ select.city_list { width: 100%; height: 60px;;font-size: 1.1rem;}
 .store-holder .owl-prev {left: -3%;}
 .store-holder .owl-next {right: -3%;}
 
-.header-bottom h1 {font-size: 2.7rem; margin: 0 0 10px 0;}
-.header-bottom p {   font-size: 1rem;}
-.header-bottom h6 {   font-size: 1.5rem; margin-top: 17px;}
+.gv_banner h4, .header-bottom h4 {font-size: 2.7rem; margin: 0 0 10px 0;}
+.gv_banner h3, .header-bottom h3 {   font-size: 1rem;}
+.gv_banner h6, .header-bottom h6 {   font-size: 1.5rem; margin-top: 17px;}
 .fa-play {  width: 110px;  margin-top: 20px; margin-left: -30px;}
-.blue-box-header-bottom h2, .text-heading {  font-size: 2.1rem;}
+.blue-box-header-bottom h3, .text-heading,.what-text .text-heading, .form-holder .text-heading {  font-size: 2.1rem;}
 .blue-box-header-bottom p { font-size: 1rem;}
-.header-bottom h1 img {margin: 0 6px;width: 30px;}
+.header-bottom h4 img {margin: 0 6px;width: 30px;}
 
 
 
@@ -171,13 +174,13 @@ select.city_list { width: 100%; height: 60px;;font-size: 1.1rem;}
 @media screen and (max-width: 800px){
 .city_list_area { width: 100%;}
 nav.mainmenu ul li a {   padding: 20px 12px;}
-body p, .what-text p {  font-size: 0.938rem; line-height: 1.5;}
-.how-text {padding: 20px 13px 52px 13px;}
+body p, .what-text p, .how-text p {  font-size: 0.938rem; line-height: 1.5;}
+.how-text.text-center {padding: 20px 13px 52px 13px !important;}
 .how-text a {font-size: 0.8rem;}
 .what-text {  width: 100%;}
 .fa-play { display: none;}
-.header-bottom { background: #1b749d;}
-.header-bottom .container {  position: unset;  transform: unset;  left: unset;   top: unset;   padding-top: 40px;  padding-bottom: 40px;}
+.header-bottom, .gv_banner, header .banner-text { background: #1b749d;}
+.gv_banner .gv_banner_txt, .header-bottom .banner-text {  position: unset;  transform: unset;  left: unset;   top: unset;   padding-top: 40px;  padding-bottom: 40px;}
 .social ul a {width: 38px; height: 38px; font-size: 15px !important;}
 .blog_heading {  font-size: 1rem;}
 .challange_survay a { font-size: 0.7rem;}
@@ -186,13 +189,11 @@ body p, .what-text p {  font-size: 0.938rem; line-height: 1.5;}
 .icon_area{ margin-bottom:0;}
 .logo, .challange_survay { height: 72px;}
 .img-building {  width: 80%;}
-.header_search input { width: 52%;}
+.search_box input { width: 52%;}
 .join { bottom: 215px;}
 
 
-
-
-.inner_banner { padding-bottom: 50px;}
+.gv_banner { padding-bottom: 50px;}
 .city_details { padding: 0 15px 25px 15px;}
 .city_details h4 {  height: 36px; font-size: 1.1rem;}
 .city_details p { font-size: 0.8rem;}
@@ -205,9 +206,18 @@ body p, .what-text p {  font-size: 0.938rem; line-height: 1.5;}
 
 .single_city_area h3 { font-size: 32px;}
 .donation_details h5 {  font-size: 16px;}
-.donation_details h6 {
-    font-size: 15px;
-}
+.donation_details h6 {   font-size: 15px;}
+
+.what-content { position: unset; top: unset; left: unset; right: unset;-webkit-transform: unset; transform: unset;  padding: 50px 0;}
+.what-holder .col-sm-7 {width: 100%;  float: none;}
+
+header .logo .img-responsive {margin: 0;width: 100%;}
+
+
+
+
+
+
 
 }
 
@@ -223,19 +233,19 @@ body p, .what-text p {  font-size: 0.938rem; line-height: 1.5;}
 
 /*.header-menu {display: none;}*/
 .store-holder .owl-prev, .store-holder .owl-next { left: unset;  top: unset; position: unset;margin: 0 5px !important;}
-.what-content { position: unset; top: unset; left: unset; right: unset;-webkit-transform: unset; transform: unset;  padding: 50px 0;}
+
 .paricipate_img, .paricipate_img img, .blog-img, .blog-img img {width: 100%;}
-.how-text {min-height: auto;margin-bottom: 30px;}
+.how-text.text-center {min-height: auto;margin-bottom: 30px ;}
 
 .blog_box {min-height: auto; margin-bottom: 30px;}
 .foot-logo a {   width: 285px;  margin: 0 auto; display: block;}
 .foot-logo {  padding-bottom: 30px;  border-bottom: 1px solid #3e4f59;}
-.foot-text {   text-align: center;   padding: 30px 0;border-bottom: 1px solid #3e4f59;}
-.footer-bottom .container { border-top: none;   padding-top: 0;}
+footer .foot-text {   text-align: center;   padding: 30px 0;border-bottom: 1px solid #3e4f59;}
+.footer-bottom .container { border-top: 2px solid transparent;   padding-top: 0;}
 .social ul {justify-content: center;}
 .common_btn { font-size: 1.1rem;}
 
-.header-menu {   position: fixed;    top: 0;    bottom: 0;   left: 0;   right: 0;    z-index: 10;    background: #234f69;transform-origin: top;
+.header-menu {   position: fixed;    top: 0;    bottom: 0;   left: 0;   right: 0;    z-index: 10;    background: #234f69 !important;transform-origin: top;
     -webkit-transform: scaleY(0);transform: scaleY(0);transition:all ease 500ms;-webkit-transition:all ease 500ms;}
 .header-menu.open {    -webkit-transform: scaleY(1);transform: scaleY(1);}
 nav.mainmenu > ul {display: block;justify-content: unset; width: 300px;margin: 0 auto;}
@@ -256,12 +266,12 @@ nav.mainmenu ul li a:hover::before { left: unset;}
 .h_search_close { width: 60px; height: 60px;}
 .h_search_close::after {transform: rotate(45deg);  top: 0; right: 29px;}
 .h_search_close::before {transform: rotate(-45deg);  top: 0; left: 34px;}
-.header_search .container form { justify-content: space-between;}
-.header_search button {   width: 130px;}
-.header_search input { width: 480px;}
+.search_box .container .input-group,.search_box .container form { justify-content: space-between;width: 100%;}
+.search_box button {   width: 130px;}
+.search_box input { width: 480px;}
 .what-holder img { height: auto;}
 
-
+header .top-right ul li, header .top-right.text-right ul li {padding: 0 15px;}
 
 
 
@@ -272,35 +282,42 @@ nav.mainmenu ul li a:hover::before { left: unset;}
 }
 
 @media screen and (max-width: 700px){
-.top-right ul li {padding: 0 10px;}	
+header .top-right ul li {padding: 0 10px;}	
 .testimonial_content p { font-size: 1rem;}
 .testimonial_content p i {font-size: 42px;}
-.header_search button { font-size: 1.1rem;}
+.search_box button { font-size: 1.1rem;margin: 0;}
 
 .active_video .active_paly { width: 130px;}
 .single_city_area { padding: 30px 0 150px 0;}
 
+
+.search_box .input-group-btn {  width: 130px;}
+
+
+
+
 }
 @media screen and (max-width: 627px){
-.header_search input {  width: 360px;}
+.search_box input {  width: 430px;}
 
 
 }
 @media screen and (max-width: 600px){
 .challange_survay a {  font-size: 0.8rem;}
-.header-bottom h1 { font-size: 2.2rem;}
-.blue-box-header-bottom h2, .text-heading {    font-size: 2rem;}
+.header-bottom h4, .gv_banner h4 { font-size: 2.2rem;}
+.blue-box-header-bottom h3, .text-heading,.what-text .text-heading {    font-size: 2rem;}
 .what-text {text-align: center;}
 .what-text .text-heading::after {   left: 50%;   -webkit-transform:translateX(-50%);   transform: translateX(-50%);}
 .what-text a { margin: 0 auto;}
 .header-top .col-xs-12 { width: 100%;}
 .select_newtork { text-align: center;}
-.top-right ul { justify-content: center;}
-.header-bottom h1 img {margin: 0 6px;width: 21px;}
+header .top-right ul { justify-content: center;}
+.header-bottom h4 img {margin: 0 6px;width: 21px;}
 
 .more_rearch_area select {width: 27%;}
 .more_rearch_area input {width: 54%;}
 	
+.search_box input {  width: 370px;}
 	
 	
 }
@@ -315,12 +332,12 @@ nav.mainmenu ul li a:hover::before { left: unset;}
 }
 
 @media screen and (max-width: 500px){
-.header_search .container form { display: block;}
+.search_box .container form { display: block;}
 .h_search_close { width: 40px; height: 40px;}
 .h_search_close::after { right: 21px;}
 .h_search_close::before { left: 20px;}
-.header_search input {   width: 100%;  height: 50px;  margin-bottom: 15px;}
-.header_search button {   width: 130px;   height: 50px;  margin: 0;}
+.search_box input {   width: 100%;  height: 50px;  margin-bottom: 15px;}
+.search_box button {   width: 130px;   height: 50px;  margin: 0;}
 .join {  bottom: unset; top: 50%;transform: translateY(-50%);-webkit-transform: translateY(-50%);}
 .blue-box-header-bottom p {  font-size: 1rem; width: 320px;    margin-left: auto;   margin-right: auto;}
 .post_dtae{ font-size:1.8rem;}
@@ -328,10 +345,10 @@ nav.mainmenu ul li a:hover::before { left: unset;}
 .post_dtae::after {   width: 58px;  height: 57px;}
 .post_dtae { width: 64px; height: 67px;margin-top: -70px;  margin-bottom: 10px;}
 
-.header-bottom h1 {  font-size: 1.8rem;}
-.header-bottom h6 { font-size: 1rem; margin-top: 15px;}
-.header-bottom p { font-size: 0.9rem;}
-.blue-box-header-bottom h2, .text-heading {   font-size: 1.5rem;}
+.header-bottom h4, .gv_banner h4 {  font-size: 1.8rem;}
+.header-bottom h6, .gv_banner h6 { font-size: 1rem; margin-top: 15px;}
+.header-bottom h3, .gv_banner h3 { font-size: 0.9rem;}
+.blue-box-header-bottom h3, .text-heading, .what-text .text-heading, .form-holder .text-heading {   font-size: 1.5rem;}
 select.city_list { padding: 0 50px 0 20px;font-size: 1rem;}
 .how-holder {   padding: 50px 0 80px 0;}
 .testimonial_content p {    font-size: 0.8rem;}
@@ -354,6 +371,12 @@ select.city_list { padding: 0 50px 0 20px;font-size: 1rem;}
 .sticky_social a { width: 35px; height: 35px;  font-size: 14px;}
 .load_more {font-size: 18px;}
 .load_more img {width: 20px;}
+.single_city_area .common_btn { width: 260px;  height: 60px;}
+.search_box .input-group-btn {width:100%;text-align: center;}
+.search_box .container .input-group{flex-direction: column; }
+.search_box .container {  width: 100%;}
+.sticky_social {top: 70%;}
+
 
 
 
@@ -369,7 +392,7 @@ select.city_list { padding: 0 50px 0 20px;font-size: 1rem;}
 
 @media screen and (max-width: 400px){
 .how-text h4 { font-size: 1.1rem;}	
-.top-right ul li a {    font-size: 0.75rem;}
+header .top-right ul li a {    font-size: 0.75rem;}
 .select_newtork a {   font-size: 0.6rem;}
 .challange_survay a {  font-size: 0.7rem;}
 .join span { width: 30px;  height: 30px; font-size: 14px;}
@@ -381,7 +404,17 @@ select.city_list { padding: 0 50px 0 20px;font-size: 1rem;}
 .icon_area { width: 35px; height: 35px;}
 .cart_count {font-size: 0.7rem; width: 30px; height: 20px; right: -10px;top: -10px;}
 nav.mainmenu > ul { width: 270px;}
-.header-bottom h1 img {margin: 0 3px;width: 18px;}
+.header-bottom h4 img {margin: 0 3px;width: 18px;}
+.single_city_area h4 {  font-size: 20px;}
+.active_video .active_paly {  width: 60px;}
+.play_video iframe {   height: 210px;}
+.straOwn_project {   padding: 40px 0 20px 0;}
+.act_city ul li span:first-child {width: 70%;}
+.act_city ul li br{ display:none;}
+.act_city ul li span:last-child { font-size: 19px;}
+.sticky_social a {  width: 30px; height: 30px; font-size: 10px;}
+.logo a { width: 100%;}
+
 
 
 }
@@ -389,7 +422,7 @@ nav.mainmenu > ul { width: 270px;}
 @media screen and (max-width: 360px){
 .blue-box-header-bottom p { width: 100%;}	
 .blue-box-header-bottom p {   font-size: 0.9rem;}
-
+.single_city_area h3 {  font-size: 28px;}
 
 
 

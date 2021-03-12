@@ -1,0 +1,411 @@
+@media screen and (max-width:3840px){
+
+ img,iframe{
+	  max-width:100%;
+	  height:auto;
+  }
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:1750px){
+	 
+
+}
+@media screen and (max-width:1600px){
+	
+}
+@media screen and (max-width:1540px){
+	
+.header-bottom h1 {font-size: 4rem;}
+.fa-play {width: 150px;}	
+	
+	
+	
+	
+	
+	
+.what-holder img {height: 650px; -webkit-object-fit: cover;object-fit: cover;}	
+	
+	
+	
+	
+}
+
+@media screen and (min-width:1500px){
+.container { width: 1440px;}
+
+}
+@media screen and (min-width:1400px){
+.single_city_area .container { width: 1200px;}
+
+
+}
+@media screen and (max-width:1440px){
+
+nav.mainmenu ul li a {padding: 20px 36px;font-size: 0.8rem;}	
+.challange_survay a {font-size: 0.85rem;}
+.header_right_account li { padding: 15px 0;}
+.logo, .challange_survay {height: 95px;}
+.top-right ul li a { font-size: 0.85rem;}	
+	
+.select_newtork { margin-top: 8px;}
+.select_newtork a {font-size: 0.75rem;	}
+.select_newtork span {font-size: 0.8rem;}	
+.select_newtork dl { font-size: 1.1rem;}
+
+.header-bottom .container { top: 70px;}
+.header-bottom p {font-size: 1.2rem;}
+.header-bottom h6 {font-size: 1.8rem;margin-top: 20px;}
+
+.blue-box-header-bottom h2, .text-heading { font-size: 3rem;}
+.text-heading {padding-bottom: 23px;margin: 0 0 30px 0;}
+.blue-box-header-bottom p { font-size: 1.2rem;margin: 0 0 20px 0;}
+.how-text {padding: 35px 19px 72px 19px;}
+.how-text h4 br{ display:none;}
+.how-holder {padding: 65px 0 100px 0;}
+
+
+.straOwn_project ul li, body p, .what-text p {font-size: 1rem;line-height: 1.5;}
+.how-text h4 {font-size: 1.3rem;}
+
+.testimonials-holder {padding: 66px 0 50px 0;}
+.testimonial_content p {font-size: 1.1rem;}
+
+.blog-all {padding: 60px 0 50px 0;}
+.blog_box {padding: 30px 20px; min-height: 200px;}
+.blog_heading { font-size: 1.3rem;}
+.store-holder {  padding: 60px 0 45px;}
+
+.store-row{ width:100%;}
+.store-text h4 {font-size: 1rem;}
+.store-text {height: 75px; padding: 0 15px;}
+.form-holder {   padding: 60px 0 150px 0;}
+
+footer .foot-text ul li a {font-size: 13px;}
+footer .foot-text ul li {margin-bottom: 6px;}
+.footer-bottom p {font-size: 0.8rem;}
+.footer-top {padding: 50px 0 35px 0;}
+
+
+.city_details p {  font-size: 0.95rem;}
+.city_details h4 { font-size: 1.4rem;}
+.straOwn_project .text-heading { font-size: 2.5rem;}
+.play_video iframe { height: 300px;}
+.single_city_area iframe { height: 400px;}
+
+
+}
+@media screen and (max-width:1366px){
+
+}
+@media screen and (max-width:1280px){
+.store-holder .owl-prev {left: -4%;}
+.store-holder .owl-next {right: -4%;}
+.header_search input { width: 60%;}	
+.join {bottom: 115px;}
+.img-building {width: 820px;}
+.top-right ul li { padding: 0 15px;}
+.what-text { width: 95%;}
+
+
+
+
+
+
+}
+@media screen and (max-width:1170px){
+nav.mainmenu ul li a { padding: 20px 24px;}
+.challange_survay a {font-size: 0.75rem;}
+.blue-box-header-bottom h2, .text-heading {font-size: 2.8rem;}
+select.city_list { width: 100%; height: 60px;;font-size: 1.1rem;}
+.city_list_area .common_btn {width: 100%;height: 60px;}
+.how-text { min-height: 370px; padding: 35px 19px 52px 19px;}
+.what-holder img {  height: 550px;}
+.how-text a { font-size: 1rem; bottom: 20px;}
+.testimonials-holder .owl-carousel { width: 100%;}
+.store-holder .owl-prev {left: -6%;}
+.store-holder .owl-next {right: -6%;}
+
+
+.city_details h4 { height: 48px;  display: flex;  justify-content: center;align-items: center;}
+.straOwn_project .text-heading {  font-size: 2rem;}
+.straOwn_project {  padding: 70px 0 50px 0;}
+.single_city_area figure p br {  display: none;}
+.act_city { margin-bottom: 25px;}
+.single_city_area figure {   padding-right: 0;}
+.allActive_link li a {  font-size: 14px;}
+.donation_details h6 {  font-size: 16px;}
+.act_city ul li {font-size: 15px;}
+
+}
+@media screen and (max-width:1024px){
+.store-holder .owl-prev {left: -3%;}
+.store-holder .owl-next {right: -3%;}
+
+.header-bottom h1 {font-size: 2.7rem; margin: 0 0 10px 0;}
+.header-bottom p {   font-size: 1rem;}
+.header-bottom h6 {   font-size: 1.5rem; margin-top: 17px;}
+.fa-play {  width: 110px;  margin-top: 20px; margin-left: -30px;}
+.blue-box-header-bottom h2, .text-heading {  font-size: 2.1rem;}
+.blue-box-header-bottom p { font-size: 1rem;}
+.header-bottom h1 img {margin: 0 6px;width: 30px;}
+
+
+
+}
+@media screen and (max-width: 950px){
+
+}
+
+@media screen and (max-width: 870px){
+
+}
+
+@media screen and (max-width: 800px){
+.city_list_area { width: 100%;}
+nav.mainmenu ul li a {   padding: 20px 12px;}
+body p, .what-text p {  font-size: 0.938rem; line-height: 1.5;}
+.how-text {padding: 20px 13px 52px 13px;}
+.how-text a {font-size: 0.8rem;}
+.what-text {  width: 100%;}
+.fa-play { display: none;}
+.header-bottom { background: #1b749d;}
+.header-bottom .container {  position: unset;  transform: unset;  left: unset;   top: unset;   padding-top: 40px;  padding-bottom: 40px;}
+.social ul a {width: 38px; height: 38px; font-size: 15px !important;}
+.blog_heading {  font-size: 1rem;}
+.challange_survay a { font-size: 0.7rem;}
+.header_right_account li a { font-size: 0.65rem;}
+.value {  display: none;}
+.icon_area{ margin-bottom:0;}
+.logo, .challange_survay { height: 72px;}
+.img-building {  width: 80%;}
+.header_search input { width: 52%;}
+.join { bottom: 215px;}
+
+
+
+
+.inner_banner { padding-bottom: 50px;}
+.city_details { padding: 0 15px 25px 15px;}
+.city_details h4 {  height: 36px; font-size: 1.1rem;}
+.city_details p { font-size: 0.8rem;}
+.more_rearch_area select {width: 23%;height: 70px; padding: 0 30px 0 15px; font-size: 14px;}
+.more_rearch_area input { width: 57%; height: 70px; padding: 0 25px 0 54px; background-position: 26px center;font-size: 15px;}
+.more_rearch_area button { width: 19%; height: 70px; font-size: 15px;}
+.straOwn_project .text-heading {    font-size: 1.75rem;}
+.play_video iframe { height: 230px;}
+.play_video iframe {  height: 350px;}
+
+.single_city_area h3 { font-size: 32px;}
+.donation_details h5 {  font-size: 16px;}
+.donation_details h6 {
+    font-size: 15px;
+}
+
+}
+
+
+@media screen and (max-width: 767px){
+.header-top .col-xs-12 {  width: 50%;}
+.logo, .challange_survay { height: auto;}
+.challange_survay, .logo { padding: 15px 0;border-bottom: 1px solid #f2f3f3;}
+.logo a{ width:350px; margin:0 auto;}
+.hammer { display: block;}
+.header_right_account li:nth-last-child(2) {   border-right: 1px solid #f2f3f3;}
+.header_right_account li:last-child { border-right: none;}
+
+/*.header-menu {display: none;}*/
+.store-holder .owl-prev, .store-holder .owl-next { left: unset;  top: unset; position: unset;margin: 0 5px !important;}
+.what-content { position: unset; top: unset; left: unset; right: unset;-webkit-transform: unset; transform: unset;  padding: 50px 0;}
+.paricipate_img, .paricipate_img img, .blog-img, .blog-img img {width: 100%;}
+.how-text {min-height: auto;margin-bottom: 30px;}
+
+.blog_box {min-height: auto; margin-bottom: 30px;}
+.foot-logo a {   width: 285px;  margin: 0 auto; display: block;}
+.foot-logo {  padding-bottom: 30px;  border-bottom: 1px solid #3e4f59;}
+.foot-text {   text-align: center;   padding: 30px 0;border-bottom: 1px solid #3e4f59;}
+.footer-bottom .container { border-top: none;   padding-top: 0;}
+.social ul {justify-content: center;}
+.common_btn { font-size: 1.1rem;}
+
+.header-menu {   position: fixed;    top: 0;    bottom: 0;   left: 0;   right: 0;    z-index: 10;    background: #234f69;transform-origin: top;
+    -webkit-transform: scaleY(0);transform: scaleY(0);transition:all ease 500ms;-webkit-transition:all ease 500ms;}
+.header-menu.open {    -webkit-transform: scaleY(1);transform: scaleY(1);}
+nav.mainmenu > ul {display: block;justify-content: unset; width: 300px;margin: 0 auto;}
+nav.mainmenu ul li a {  padding: 14px 12px;color: #fff;}
+
+nav.mainmenu ul li a::after { top: unset; right: 0; left: 0;width: 100%;height: 1px;bottom: 0px;background: rgba(255,255,255,0.4);}
+nav.mainmenu {  position: fixed;  left: 50%; top: 50%;transform: translate(-50%,-50%);-webkit-transform: translate(-50%,-50%);}
+
+nav.mainmenu ul li a::before {width: 10px;height: 10px;background: none; left: unset; opacity: 1; visibility: visible; border-style: solid;border-width: 5px; 
+border-color: transparent transparent transparent rgba(255,255,255,0.4);top: 50%;
+    -webkit-transform: translateY(-50%);transform: translateY(-50%);right: 0;}
+nav.mainmenu ul li a:hover::before { left: unset;}
+
+.menu_close { display:block; position: absolute; width: 50px; height: 50px; top: 20px; right: 20px; /*background: #f2f3f3;*/ cursor: pointer; -webkit-transition: all ease 500ms;transition: all ease 500ms;}
+.menu_close::after {   content: '';   position: absolute;  width: 1px;  height: 100%;  background: #f2f3f3;  transform: rotate(45deg);  top: 4px;  right: 29px; }
+.menu_close::before {  content: '';  position: absolute;   width: 1px;   height: 100%;   background: #f2f3f3;   transform: rotate(-45deg);   top: 4px;  left: 24px;}
+
+.h_search_close { width: 60px; height: 60px;}
+.h_search_close::after {transform: rotate(45deg);  top: 0; right: 29px;}
+.h_search_close::before {transform: rotate(-45deg);  top: 0; left: 34px;}
+.header_search .container form { justify-content: space-between;}
+.header_search button {   width: 130px;}
+.header_search input { width: 480px;}
+.what-holder img { height: auto;}
+
+
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 700px){
+.top-right ul li {padding: 0 10px;}	
+.testimonial_content p { font-size: 1rem;}
+.testimonial_content p i {font-size: 42px;}
+.header_search button { font-size: 1.1rem;}
+
+.active_video .active_paly { width: 130px;}
+.single_city_area { padding: 30px 0 150px 0;}
+
+}
+@media screen and (max-width: 627px){
+.header_search input {  width: 360px;}
+
+
+}
+@media screen and (max-width: 600px){
+.challange_survay a {  font-size: 0.8rem;}
+.header-bottom h1 { font-size: 2.2rem;}
+.blue-box-header-bottom h2, .text-heading {    font-size: 2rem;}
+.what-text {text-align: center;}
+.what-text .text-heading::after {   left: 50%;   -webkit-transform:translateX(-50%);   transform: translateX(-50%);}
+.what-text a { margin: 0 auto;}
+.header-top .col-xs-12 { width: 100%;}
+.select_newtork { text-align: center;}
+.top-right ul { justify-content: center;}
+.header-bottom h1 img {margin: 0 6px;width: 21px;}
+
+.more_rearch_area select {width: 27%;}
+.more_rearch_area input {width: 54%;}
+	
+	
+	
+}
+@media screen and (max-width: 568px){
+	
+}
+@media screen and (max-width: 575px){
+
+}
+@media screen and (max-width: 550px){
+	
+}
+
+@media screen and (max-width: 500px){
+.header_search .container form { display: block;}
+.h_search_close { width: 40px; height: 40px;}
+.h_search_close::after { right: 21px;}
+.h_search_close::before { left: 20px;}
+.header_search input {   width: 100%;  height: 50px;  margin-bottom: 15px;}
+.header_search button {   width: 130px;   height: 50px;  margin: 0;}
+.join {  bottom: unset; top: 50%;transform: translateY(-50%);-webkit-transform: translateY(-50%);}
+.blue-box-header-bottom p {  font-size: 1rem; width: 320px;    margin-left: auto;   margin-right: auto;}
+.post_dtae{ font-size:1.8rem;}
+.post_dtae span { font-size: 1rem;}
+.post_dtae::after {   width: 58px;  height: 57px;}
+.post_dtae { width: 64px; height: 67px;margin-top: -70px;  margin-bottom: 10px;}
+
+.header-bottom h1 {  font-size: 1.8rem;}
+.header-bottom h6 { font-size: 1rem; margin-top: 15px;}
+.header-bottom p { font-size: 0.9rem;}
+.blue-box-header-bottom h2, .text-heading {   font-size: 1.5rem;}
+select.city_list { padding: 0 50px 0 20px;font-size: 1rem;}
+.how-holder {   padding: 50px 0 80px 0;}
+.testimonial_content p {    font-size: 0.8rem;}
+.from_g input { width: 100%;  height: 50px; font-size: 1rem;}
+.from_g .emailll {   height: 70px;    padding-bottom: 20px;}
+.common_btn.submit_now {width: 255px; height: 60px; font-size: 1.2rem;}
+.post_dtae span { margin-top: 3px;}
+.blog-all {  padding: 40px 0 20px 0;}
+.store-holder {   padding: 40px 0;}
+.testimonial_body::after, .testimonial_body::before { width: 30%;}
+.what-text a, .straOwn_project .common_btn { width: 200px;height: 60px;}
+.menu_close { width: 40px; height: 40px;  top: 10px; right: 10px;}
+.menu_close::after {top: 0; right: 21px;}
+.menu_close::before { top: 0px;left: 20px;}
+
+
+
+.more_rearch_area input, .more_rearch_area select, .more_rearch_area button{ float:none; width:100%;}
+.more_rearch_area select {padding: 0 30px 0 45px;}
+.sticky_social a { width: 35px; height: 35px;  font-size: 14px;}
+.load_more {font-size: 18px;}
+.load_more img {width: 20px;}
+
+
+
+
+}
+
+@media screen and (max-width: 450px){
+.testimonials_img { width: 220px;}	
+
+
+
+}
+
+@media screen and (max-width: 400px){
+.how-text h4 { font-size: 1.1rem;}	
+.top-right ul li a {    font-size: 0.75rem;}
+.select_newtork a {   font-size: 0.6rem;}
+.challange_survay a {  font-size: 0.7rem;}
+.join span { width: 30px;  height: 30px; font-size: 14px;}
+.join {  width: 45px; height: 45px;}
+
+.city_list_area .form_group:first-child {   width: 620px;}
+.common_btn { font-size: 1rem;}
+.foot-logo a {  width: 210px;}
+.icon_area { width: 35px; height: 35px;}
+.cart_count {font-size: 0.7rem; width: 30px; height: 20px; right: -10px;top: -10px;}
+nav.mainmenu > ul { width: 270px;}
+.header-bottom h1 img {margin: 0 3px;width: 18px;}
+
+
+}
+
+@media screen and (max-width: 360px){
+.blue-box-header-bottom p { width: 100%;}	
+.blue-box-header-bottom p {   font-size: 0.9rem;}
+
+
+
+
+}
+
+@media screen and (max-width: 320px){
+	
+
+}
+@media only screen and (min-width : 768px) and (max-width : 1024px) {
+
+}
+@media only screen and (min-width : 1024px) {
+	.row-cols-md-7 > * {
+	    -ms-flex: 0 0 14.28571428571429%;
+	    flex: 0 0 14.28571428571429%;
+	    max-width: 14.28571428571429%;
+	}
+}
